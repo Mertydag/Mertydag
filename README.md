@@ -4,7 +4,7 @@
 
 ## 🎮 Gaming Experience
 
-My love for coding started with developing mods and plugins for games such as Counter Strike, Minecraft, GTA San Andreas and GTA 5.
+My love for coding started with developing mods and plugins for games such as , Minecraft, and GTA 5.
 
 # 🚀 Experience
 
