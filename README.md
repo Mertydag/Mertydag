@@ -20,12 +20,11 @@ You can reach me at my Discord username: `Mert61#5577` or simply drop me a messa
 
 #### Runtime Environments
 
-img src="https://img.shields.io/badge/-Node.js-000?logo=Node.js&logoColor=339933" alt="Node.js" />  alt="Apache" /> <img src="https://img.shields.io/badge/-Nginx-000?logo=Nginx&logoColor=009639" alt="Nginx" /> <img src="https://img.shields.io/badge/-Docker-000?logo=Docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/-Node.js-000?logo=Node.js&logoColor=339933" alt="Node.js" /> <img src="https://img.shields.io/badge/-Apache-000?logo=Apache&logoColor=D22128" alt="Apache" /> <img src="https://img.shields.io/badge/-Nginx-000?logo=Nginx&logoColor=009639" alt="Nginx" /> <img src="https://img.shields.io/badge/-Docker-000?logo=Docker&logoColor=2496ED" alt="Docker" />
 
 #### Web Development
 
-<img src="https://img.shields.io/badge/-HTML5-000?logo=HTML5&logoColor=E34F26" alt="HTML5" /> <img src="https://img.shields.io/badge/-CSS3-000?logo=CSS3&logoColor=1572B6" alt="CSS3"  <img src="https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&logoColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/-TypeScript-000?logo=TypeScript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/-React-000?logo=React&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/-Next.js-000?logo=Next.js&logoColor=FFF" alt="Next.js" />
-
+<img src="https://img.shields.io/badge/-HTML5-000?logo=HTML5&logoColor=E34F26" alt="HTML5" /> <img src="https://img.shields.io/badge/-CSS3-000?logo=CSS3&logoColor=1572B6" alt="CSS3" /> <img src="https://img.shields.io/badge/-Sass-000?logo=Sass&logoColor=CC6699" alt="Sass" /> <img src="https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&logoColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/-TypeScript-000?logo=TypeScript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/-React-000?logo=React&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/-Next.js-000?logo=Next.js&logoColor=FFF" alt="Next.js" />
 
 
 #### Tooling
