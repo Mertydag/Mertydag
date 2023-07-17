@@ -44,9 +44,6 @@ You can reach me at my Discord username: `Mert61#5577` or simply drop me a messa
 
 <img src="https://img.shields.io/badge/-Firefox-FFF?logo=Firefox&logoColor=FF7139" alt="Firefox" /> <img src="https://img.shields.io/badge/-Google%20Chrome-FFF?logo=Google%20Chrome&logoColor=4285F4" alt="Google Chrome" />
 
-#### PHP Frameworks / Libraries
-
-<img src="https://img.shields.io/badge/-Laravel-FFF?logo=Laravel&logoColor=FF2D20" alt="Laravel" /> <img src="https://img.shields.io/badge/-Livewire-FFF?logo=Livewire&logoColor=4E56A6" alt="Livewire" />
 
 #### CSS Frameworks
 
