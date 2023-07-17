@@ -58,15 +58,6 @@ You can reach me at my Discord username: `Mert61#5577` or simply drop me a messa
 #### CSS Frameworks
 
 <img src="https://img.shields.io/badge/-Bootstrap-FFF?logo=Bootstrap&logoColor=7952B3" alt="Bootstrap" /> <img src="https://img.shields.io/badge/-Tailwind%20CSS-000?logo=Tailwind%20CSS&logoColor=06B6D4" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/-Windi%20CSS-000?logo=Windi%20CSS&logoColor=48B0F1" alt="Windi CSS" />
-
-#### Package Managers
-
-<img src="https://img.shields.io/badge/-Yarn-000?logo=Yarn&logoColor=2C8EBB" alt="Yarn" /> <img src="https://img.shields.io/badge/-npm-000?logo=npm&logoColor=CB3837" alt="npm" />
-
-#### Marketing & SEO
-
-<img src="https://img.shields.io/badge/-Google%20Ads-FFF?logo=Google%20Ads&logoColor=4285F4" alt="Google Ads" /> <img src="https://img.shields.io/badge/-Telegram-FFF?logo=Telegram&logoColor=26A5E4" alt="Telegram" /> <img src="https://img.shields.io/badge/-Instagram-FFF?logo=Instagram&logoColor=E4405F" alt="Instagram" />
-
 #### Game Development
 
 <img src="https://img.shields.io/badge/-Minecraft-000?logo=Minecraft&logoColor=62B47A" alt="Minecraft" /> <img src="https://img.shields.io/badge/-FiveM-000?logo=FiveM&logoColor=F40552" alt="FiveM" />
