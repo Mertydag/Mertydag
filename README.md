@@ -1,6 +1,6 @@
 # 💻 Who am I?
 
-'m a full Frontend-Developer with over 3 years of experience, who has mastered the art of creating.
+I'm a full Frontend-Developer with over 3 years of experience, who has mastered the art of creating.
 
 ## 🎮 Gaming Experience
 
