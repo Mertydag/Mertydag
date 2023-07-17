@@ -38,9 +38,7 @@ You can reach me at my Discord username: `Mert61#5577` or simply drop me a messa
 
 <img src="https://img.shields.io/badge/-Shopify-000?logo=Shopify&logoColor=7AB55C" alt="Shopify" /> <img src="https://img.shields.io/badge/-Shopware-000?logo=Shopware&logoColor=189EFF" alt="Shopware" />
 
-#### IDE
 
-<img src="https://img.shields.io/badge/-VSC-000?logo=Visual%20Studio%20Code&logoColor=007ACC" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/-Eclipse%20IDE-FFF?logo=Eclipse%20IDE&logoColor=2C2255" alt="Eclipse IDE" />
 
 #### Browser
 
