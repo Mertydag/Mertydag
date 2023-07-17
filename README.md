@@ -20,7 +20,7 @@ You can reach me at my Discord username: `Mert61#5577` or simply drop me a messa
 
 #### Runtime Environments
 
-<img src="https://img.shields.io/badge/-Node.js-000?logo=Node.js&logoColor=339933" alt="Node.js" />  alt="Apache" /> <img src="https://img.shields.io/badge/-Nginx-000?logo=Nginx&logoColor=009639" alt="Nginx" /> <img src="https://img.shields.io/badge/-Docker-000?logo=Docker&logoColor=2496ED" alt="Docker" />
+img src="https://img.shields.io/badge/-Node.js-000?logo=Node.js&logoColor=339933" alt="Node.js" />  alt="Apache" /> <img src="https://img.shields.io/badge/-Nginx-000?logo=Nginx&logoColor=009639" alt="Nginx" /> <img src="https://img.shields.io/badge/-Docker-000?logo=Docker&logoColor=2496ED" alt="Docker" />
 
 #### Web Development
 
