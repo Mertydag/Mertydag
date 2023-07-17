@@ -62,7 +62,7 @@ You can reach me at my Discord username: `Mert61#5577` or simply drop me a messa
 
 #### Plattform
 
-<img src="https://img.shields.io/badge/-GitHub-FFF?logo=GitHub&logoColor=181717" alt="GitHub" />  <img src="https://img.shields.io/badge/-GitBook-000?logo=GitBook&logoColor=3884FF" alt="GitBook" /> <img src="https://img.shields.io/badge/-Trustpilot-000?logo=Trustpilot&logoColor=00B67A" alt="Trustpilot" /> <img src="https://img.shields.io/badge/-Discord-000?logo=Discord&logoColor=5865F2" alt="Discord" />
+<img src="https://img.shields.io/badge/-GitHub-FFF?logo=GitHub&logoColor=181717" alt="GitHub" />  <img src="https://img.shields.io/badge/-GitBook-000?logo=GitBook&logoColor=3884FF" alt="GitBook" /> src="https://img.shields.io/badge/-Discord-000?logo=Discord&logoColor=5865F2" alt="Discord" />
 
 #### Software / Hardware
 
