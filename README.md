@@ -8,9 +8,11 @@ My love for coding started with developing mods and plugins for games such as , 
 
 # 🚀 Experience
 
-- 💻 4+ years of experience in web development
-- 🔨Proficient in TypeScript, Next.js, and various other technologies (C#, Java, JS)
-- 🚀 API development and web application creation
+💻 Over a decade of hands-on experience in frontend development
+✨ Expertise in cutting-edge frontend technologies: HTML, CSS, JavaScript, React.js and frameworks like Tailwind, ChakraUI
+🎨 Aesthetic sensibility with a focus on creating beautiful and intuitive user interfaces
+📱 Responsive design implementation and cross-browser compatibility
+🔧 Performance optimization and code refactoring wizardry
 
 ## 📞 How to Contact Me
 
