@@ -1,6 +1,6 @@
 # 💻 Who am I?
 
-I'm a full Frontend-Developer with over 3 years of experience, who has mastered the art of creating.
+I'm a frontend developer extraordinaire, specializing in crafting visually stunning and user-friendly web experiences. With a keen eye for design and a passion for cutting-edge technologies, I've honed my skills to deliver top-notch frontend solutions that leave a lasting impression.
 
 ## 🎮 Gaming Experience
 
