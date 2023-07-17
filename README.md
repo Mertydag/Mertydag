@@ -54,7 +54,7 @@ You can reach me at my Discord username: `Mert61#5577` or simply drop me a messa
 
 #### Other Languages
 
-<img src="https://img.shields.io/badge/-Markdown-FFF?logo=Markdown&logoColor=000000" alt="Markdown" /> <img src="https://img.shields.io/badge/-Lua-FFF?logo=Lua&logoColor=2C2D72" alt="Lua" />
+ <img src="https://img.shields.io/badge/-Lua-FFF?logo=Lua&logoColor=2C2D72" alt="Lua" />
 
 #### .NET
 
