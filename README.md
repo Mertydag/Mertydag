@@ -66,4 +66,4 @@ You can reach me at my Discord username: `Mert61#5577` or simply drop me a messa
 
 #### Software / Hardware
 
-<img src="https://img.shields.io/badge/-VirtualBox-FFF?logo=VirtualBox&logoColor=183A61" alt="VirtualBox" /> <img src="https://img.shields.io/badge/-OpenAI-FFF?logo=OpenAI&logoColor=412991" alt="OpenAI" /> <img src="https://img.shields.io/badge/-MSI-000?logo=MSI&logoColor=FF0000" alt="MSI" /> <img src="https://img.shields.io/badge/-Keybase-000?logo=Keybase&logoColor=33A0FF" alt="Keybase" /> <img src="https://img.shields.io/badge/-Adobe%20Audition-000?logo=Adobe%20Audition&logoColor=9999FF" alt="Adobe Audition" /> <img src="https://img.shields.io/badge/-Notepad++-000?logo=Notepad%2b%2b&logoColor=90E59A" alt="Notepad++" />
+  <img src="https://img.shields.io/badge/-Keybase-000?logo=Keybase&logoColor=33A0FF" alt="Keybase" /> <img src="https://img.shields.io/badge/-Adobe%20Audition-000?logo=Adobe%20Audition&logoColor=9999FF" alt="Adobe Audition" /> <img src="https://img.shields.io/badge/-Notepad++-000?logo=Notepad%2b%2b&logoColor=90E59A" alt="Notepad++" />
