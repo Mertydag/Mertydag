@@ -8,9 +8,8 @@ My love for coding started with developing mods and plugins for games such as , 
 
 # 🚀 Experience
 
-- 💻 10+ years of experience in web development
-- 🔨 Proficient in TypeScript, Next.js, and various other technologies (C#, Java, PHP, JS)
-- 🎨 UI/UX, Refactoring, and Figma design implementation expertise
+- 💻 4+ years of experience in web development
+- 🔨Proficient in TypeScript, Next.js, and various other technologies (C#, Java, JS)
 - 🚀 API development and web application creation
 
 ## 📞 How to Contact Me
