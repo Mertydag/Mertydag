@@ -36,14 +36,6 @@ You can reach me at my Discord username: `Mert61#5577` or simply drop me a messa
 
 <img src="https://img.shields.io/badge/-tRPC-FFF?logo=tRPC&logoColor=2596BE" alt="tRPC" /> <img src="https://img.shields.io/badge/-Framework7-000?logo=Framework7&logoColor=EE350F" alt="Framework7" /> <img src="https://img.shields.io/badge/-Framer-000?logo=Framer&logoColor=0055FF" alt="Framer" />
 
-#### Design & Illustration
-
-<img src="https://img.shields.io/badge/-Figma-000?logo=Figma&logoColor=F24E1E" alt="Figma" /> <img src="https://img.shields.io/badge/-SVG-000?logo=SVG&logoColor=FFB13B" alt="SVG" />
-
-#### Cryptocurrency & Blockchain
-
-<img src="https://img.shields.io/badge/-Bitcoin-FFF?logo=Bitcoin&logoColor=F7931A" alt="Bitcoin" />
-
 #### Database
 
 <img src="https://img.shields.io/badge/-MySQL-FFF?logo=MySQL&logoColor=4479A1" alt="MySQL" /> <img src="https://img.shields.io/badge/-SQLite-FFF?logo=SQLite&logoColor=003B57" alt="SQLite" /> <img src="https://img.shields.io/badge/-PostgreSQL-FFF?logo=PostgreSQL&logoColor=4169E1" alt="PostgreSQL" />
