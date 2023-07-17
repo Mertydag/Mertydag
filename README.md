@@ -80,14 +80,6 @@ You can reach me at my Discord username: `Mert61#5577` or simply drop me a messa
 
 <img src="https://img.shields.io/badge/-.NET-FFF?logo=.NET&logoColor=512BD4" alt=".NET" /> <img src="https://img.shields.io/badge/-C%20Sharp-000?logo=C%20Sharp&logoColor=239120" alt="C Sharp" />
 
-#### Operating Systems
-
-<img src="https://img.shields.io/badge/-Ubuntu-000?logo=Ubuntu&logoColor=E95420" alt="Ubuntu" /> <img src="https://img.shields.io/badge/-Debian-000?logo=Debian&logoColor=A81D33" alt="Debian" /> <img src="https://img.shields.io/badge/-CentOS-FFF?logo=CentOS&logoColor=262577" alt="CentOS" />
-
-#### WordPress
-
-<img src="https://img.shields.io/badge/-WooCommerce-FFF?logo=WooCommerce&logoColor=96588A" alt="WooCommerce" /> <img src="https://img.shields.io/badge/-WordPress-FFF?logo=WordPress&logoColor=21759B" alt="WordPress" /> <img src="https://img.shields.io/badge/-Elementor-000?logo=Elementor&logoColor=92003B" alt="Elementor" />
-
 #### Plattform
 
 <img src="https://img.shields.io/badge/-GitHub-FFF?logo=GitHub&logoColor=181717" alt="GitHub" /> <img src="https://img.shields.io/badge/-Stack%20Overflow-FFF?logo=Stack%20Overflow&logoColor=F58025" alt="Stack Overflow" /> <img src="https://img.shields.io/badge/-GitBook-000?logo=GitBook&logoColor=3884FF" alt="GitBook" /> <img src="https://img.shields.io/badge/-Trustpilot-000?logo=Trustpilot&logoColor=00B67A" alt="Trustpilot" /> <img src="https://img.shields.io/badge/-Discord-000?logo=Discord&logoColor=5865F2" alt="Discord" />
