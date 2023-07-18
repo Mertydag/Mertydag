@@ -1,71 +1,26 @@
-# 💻 Who am I?
+## 👋 Hello, I'm Mert!
 
-I'm a frontend developer extraordinaire, specializing in crafting visually stunning and user-friendly web experiences. With a keen eye for design and a passion for cutting-edge technologies, I've honed my skills to deliver top-notch frontend solutions that leave a lasting impression.
+Welcome to my GitHub profile. I'm a frontend developer with a passion for creating engaging and user-friendly web applications. With a strong focus on design and a love for clean code, I strive to deliver exceptional digital experiences that leave a lasting impression.
 
-## 🎮 Gaming Experience
+### 🚀 Skills
 
-My love for coding started with developing mods and plugins for games such as , Minecraft, and GTA 5.
+- **Languages**: HTML, CSS, JavaScript
+- **Frontend Frameworks/Libraries**: React.js
+- **CSS Frameworks**: Bootstrap, Tailwind CSS
+- **Version Control**: Git
+- **UI/UX Design**: Figma
+- **Prototyping**: InVision, Adobe XD
 
-# 🚀 Experience
+### 💼 Experience
 
-💻 Over a decade of hands-on experience in frontend development
-✨ Expertise in cutting-edge frontend technologies: HTML, CSS, JavaScript, React.js and frameworks like Tailwind, ChakraUI
-🎨 Aesthetic sensibility with a focus on creating beautiful and intuitive user interfaces
-📱 Responsive design implementation and cross-browser compatibility
-🔧 Performance optimization and code refactoring wizardry
+I have been working as a frontend developer for 3 years, gaining valuable experience and honing my skills along the way. During this time, I have successfully completed various projects, collaborating with teams to deliver high-quality web applications.
 
-## 📞 How to Contact Me
+### 🌱 Continuous Learning
 
-You can reach me at my Discord username: `Mert61#5577` or simply drop me a message and I'll get back to you as soon as I can!
+As technology continues to evolve, I understand the importance of staying up-to-date with the latest trends and advancements in the frontend development world. I am constantly learning and exploring new tools and techniques to improve my skills and deliver cutting-edge solutions.
 
-## Knowledge
+### 📫 Let's Connect
 
-#### Runtime Environments
+If you would like to collaborate on a project, have any questions, or just want to say hi, feel free to reach out to me. You can contact me via discord at `Mert61#5577`.
 
-<img src="https://img.shields.io/badge/-Node.js-000?logo=Node.js&logoColor=339933" alt="Node.js" /> <img src="https://img.shields.io/badge/-Apache-000?logo=Apache&logoColor=D22128" alt="Apache" /> 
-
-#### Web Development
-
-<img src="https://img.shields.io/badge/-HTML5-000?logo=HTML5&logoColor=E34F26" alt="HTML5" /> <img src="https://img.shields.io/badge/-CSS3-000?logo=CSS3&logoColor=1572B6" alt="CSS3" /> <img src="https://img.shields.io/badge/-Sass-000?logo=Sass&logoColor=CC6699" alt="Sass" /> <img src="https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&logoColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/-TypeScript-000?logo=TypeScript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/-React-000?logo=React&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/-Next.js-000?logo=Next.js&logoColor=FFF" alt="Next.js" />
-
-#### Web Frameworks / Libraries
-
-<img src="https://img.shields.io/badge/-tRPC-FFF?logo=tRPC&logoColor=2596BE" alt="tRPC" /> <img src="https://img.shields.io/badge/-Framework7-000?logo=Framework7&logoColor=EE350F" alt="Framework7" /> <img src="https://img.shields.io/badge/-Framer-000?logo=Framer&logoColor=0055FF" alt="Framer" />
-
-#### Database
-
-<img src="https://img.shields.io/badge/-MySQL-FFF?logo=MySQL&logoColor=4479A1" alt="MySQL" /> <img src="https://img.shields.io/badge/-SQLite-FFF?logo=SQLite&logoColor=003B57" alt="SQLite" /> <img src="https://img.shields.io/badge/-PostgreSQL-FFF?logo=PostgreSQL&logoColor=4169E1" alt="PostgreSQL" />
-
-#### Shop Systems
-
-<img src="https://img.shields.io/badge/-Shopify-000?logo=Shopify&logoColor=7AB55C" alt="Shopify" /> <img src="https://img.shields.io/badge/-Shopware-000?logo=Shopware&logoColor=189EFF" alt="Shopware" />
-
-
-
-#### Browser
-
-<img src="https://img.shields.io/badge/-Firefox-FFF?logo=Firefox&logoColor=FF7139" alt="Firefox" /> <img src="https://img.shields.io/badge/-Google%20Chrome-FFF?logo=Google%20Chrome&logoColor=4285F4" alt="Google Chrome" />
-
-
-#### CSS Frameworks
-
-<img src="https://img.shields.io/badge/-Bootstrap-FFF?logo=Bootstrap&logoColor=7952B3" alt="Bootstrap" /> <img src="https://img.shields.io/badge/-Tailwind%20CSS-000?logo=Tailwind%20CSS&logoColor=06B6D4" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/-Windi%20CSS-000?logo=Windi%20CSS&logoColor=48B0F1" alt="Windi CSS" />
-#### Game Development
-
-<img src="https://img.shields.io/badge/-Minecraft-000?logo=Minecraft&logoColor=62B47A" alt="Minecraft" /> <img src="https://img.shields.io/badge/-FiveM-000?logo=FiveM&logoColor=F40552" alt="FiveM" />
-
-#### Other Languages
-
- <img src="https://img.shields.io/badge/-Lua-FFF?logo=Lua&logoColor=2C2D72" alt="Lua" />
-
-#### .NET
-
-<img src="https://img.shields.io/badge/-.NET-FFF?logo=.NET&logoColor=512BD4" alt=".NET" /> <img src="https://img.shields.io/badge/-C%20Sharp-000?logo=C%20Sharp&logoColor=239120" alt="C Sharp" />
-
-#### Plattform
-
-<img src="https://img.shields.io/badge/-GitHub-FFF?logo=GitHub&logoColor=181717" alt="GitHub" />   <img src="https://img.shields.io/badge/-GitBook-000?logo=GitBook&logoColor=3884FF" alt="GitBook" />  <img src="https://img.shields.io/badge/-Discord-000?logo=Discord&logoColor=5865F2" alt="Discord" />
-
-#### Software / Hardware
-
-  <img src="https://img.shields.io/badge/-Keybase-000?logo=Keybase&logoColor=33A0FF" alt="Keybase" /> <img src="https://img.shields.io/badge/-Adobe%20Audition-000?logo=Adobe%20Audition&logoColor=9999FF" alt="Adobe Audition" /> <img src="https://img.shields.io/badge/-Notepad++-000?logo=Notepad%2b%2b&logoColor=90E59A" alt="Notepad++" />
+Thank you for visiting my GitHub profile. Have a great day!
